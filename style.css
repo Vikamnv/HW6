@@ -62,20 +62,20 @@
     height: 250px;
   }
   .photos__container__photo_element_1 {
-      background: url('img /photo_1.jpeg') center/contain no-repeat;
+      background:url('img /photo_1.jpeg') center/contain no-repeat;
   }
   .photos__container__photo_element_2 {
-      background: url('img /photo_2.jpeg') center/contain no-repeat;
+      background:url('img /photo_2.jpeg') center/contain no-repeat;
   }
   .photos__container__photo_element_3 {
-    background: url('img /photo_3.jpeg') center/contain no-repeat;
+    background:url('img /photo_3.jpeg') center/contain no-repeat;
 }
 .photos__container__photo_element_4 {
-    background: url('img /photo_4.jpeg') center/contain no-repeat;
+    background:url('img /photo_4.jpeg') center/contain no-repeat;
 }
 .photos__container__photo_element_5 {
-    background: url('img /photo_5.jpeg') center/contain no-repeat;
+    background:url('img /photo_5.jpeg') center/contain no-repeat;
 }
 .photos__container__photo_element_6 {
-    background: url('img /photo_6.jpeg') center/contain no-repeat;
+    background:url('img /photo_6.jpeg') center/contain no-repeat;
 }
